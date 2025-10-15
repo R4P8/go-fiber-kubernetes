@@ -21,4 +21,4 @@ COPY .env .
 EXPOSE 8080
 
 
-CMD ["./example"]
+CMD ["./go-fiber-example"]
